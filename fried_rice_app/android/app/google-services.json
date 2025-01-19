@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "884673672522",
+    "project_id": "fried-rice-app",
+    "storage_bucket": "fried-rice-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884673672522:android:f04b843a7523acd4907db3",
+        "android_client_info": {
+          "package_name": "com.example.fried_rice_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSmEL2Fvjr49rvwD08dt4Tk0MZ1bqsG3M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
